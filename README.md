@@ -9,8 +9,11 @@ Become a seller and add products, monitor sales, and gather customer feedback.
 
 <br>
 CREDITS:
+<br><br>
  Yogendra Awasthi
+ <br><br>
 [Github](https://github.com/Yogndrr)
+<br><br>
 [Youtube Video](https://youtu.be/i_z0HYk3IuQ?si=S04-IBq7Ny8k0FYC)
 <br><br>
 [LinkedIn](https://www.linkedin.com/in/yogndr/)
