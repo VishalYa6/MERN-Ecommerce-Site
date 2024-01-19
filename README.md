@@ -1,5 +1,5 @@
 <h1 align="center">
-    SHOPCART: Ecommerce Site
+    Ecommerce Site
 </h1>
 
 <h3 align="center">
@@ -15,7 +15,7 @@ Become a seller and add products, monitor sales, and gather customer feedback.
 
 # About
 
-ShopCart is an ecommerce site developed using the MERN (MongoDB, Express.js, React, Node.js) stack. It offers a user-friendly and efficient shopping experience for customers, while providing sellers with essential tools to manage their products and sales.
+an ecommerce site developed using the MERN (MongoDB, Express.js, React, Node.js) stack. It offers a user-friendly and efficient shopping experience for customers, while providing sellers with essential tools to manage their products and sales.
 
 ## Features
 
@@ -39,44 +39,3 @@ ShopCart is an ecommerce site developed using the MERN (MongoDB, Express.js, Rea
 - Backend: Node.js, Express.js, JWT Token
 - Database: MongoDB
 - Data Visualization: React Apexcharts
-
-<br>
-
-# Installation
-
-```sh
-git clone https://github.com/Yogndrr/MERN-Ecommerce-Site.git
-```
-Open 2 terminals in separate windows/tabs.
-
-Terminal 1: Setting Up Backend 
-<br><br>
-Create a env file and then add your mongodb link and also jwt secret key
-```sh
-cd backend
-npm install
-npm start
-```
-
-Terminal 2: Setting Up Frontend
-
-```sh
-cd frontend
-npm install
-npm start
-```
-Create a env file and then write 
-
-```env
-REACT_APP_BASE_URL = http://localhost:5000
-```
-
-Now, navigate to `localhost:3000` in your browser. 
-The Backend API will be running at `localhost:5000`.
-
-<br>
-
-# Deployment
-* Render - server side
-* Vercel - client side
-
